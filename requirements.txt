@@ -1,0 +1,6 @@
+tqdm
+llama-cpp-python
+requests
+pyperclip
+art
+colorama
